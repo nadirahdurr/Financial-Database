@@ -15,7 +15,7 @@ This is a Financial Database to analyze the performance of a fintech ETF.
 Clone and run the application by running voila etf_analyzer.ipynb in terminal
 
 ## Example
-![](images/blockchain-ledger.png)
+![](recording/Screen Recording 2022-05-14 at 11.23.17 AM.mov)
 
 ## Contributors
 
